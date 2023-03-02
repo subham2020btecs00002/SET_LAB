@@ -60,6 +60,8 @@ int isEmpty(struct Stack st)
     else
         return 0;
 }
+int isMile(struct Stack st)
+
 int isBull(struct Stack st)
 {
     if (st.top == -1)
