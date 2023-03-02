@@ -60,6 +60,13 @@ int isEmpty(struct Stack st)
     else
         return 0;
 }
+int isBull(struct Stack st)
+{
+    if (st.top == -1)
+        return 1;
+    else
+        return 0;
+}
 int isFull(struct Stack st)
 {
     if (st.top == st.size - 1)
