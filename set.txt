@@ -1,2 +1,3 @@
 set assignment 
 set assignment deadline
+set done today
