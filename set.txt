@@ -1,1 +1,2 @@
 set assignment 
+set assignment deadline
